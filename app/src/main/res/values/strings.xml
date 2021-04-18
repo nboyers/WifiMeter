@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WiFi Meter</string>
+    <string name="signal_strength">Signal Strength</string>
+    <string name="reset">Reset</string>
+    <string name="rssi_dbm">RSSI: %d dBm</string>
+    <string name="text_RSSI">rssi</string>
+    <string name="lost_connection">Connection Lost</string>
+    <string name="not_wifi">Connect to Wifi</string>
+</resources>
